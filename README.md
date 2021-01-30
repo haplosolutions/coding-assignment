@@ -2,7 +2,7 @@
 # Assignment
 You are tasked to create a script that will parse multiple CSVs and create a unified csv. There are 3 different CSVs, this will increase in the future.
 
-In the data folder there are 3 CSVs with required data.
+There are 3 CSVs inn the repo with required data.
 
 # Scoring
 Create a script according to above specified requirements. You are allowed to take as much time as needed, But try to manage your time to around 1 or 2 hours. Since we are a Python shop the script must be done with Python. Scoring is based on:
