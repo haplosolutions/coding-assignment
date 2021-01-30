@@ -5,7 +5,7 @@ You are tasked to create a Python script that will parse multiple CSVs and creat
 There are 3 CSVs in the repo with the required data.
 
 # Scoring
-Create a script according to above specified requirements. You are allowed to take as much time as needed, but try to manage your time to around 1 or 2 hours. Since we are a Python shop the script must be done with Python. Scoring is based on:
+Create a script according to above specified requirements. You are allowed to take as much time as needed, but try to manage your time to around 2 or 3 hours. Since we are a Python shop the script must be done with Python. Scoring is based on:
 
 1. Correctness
 2. Code architecture
