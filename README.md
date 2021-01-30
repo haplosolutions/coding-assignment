@@ -7,12 +7,12 @@ In the data folder there are 3 CSVs with required data.
 # Scoring
 Create a script according to above specified requirements. You are allowed to take as much time as needed, But try to manage your time to around 1 or 2 hours. Since we are a Python shop the script must be done with Python. Scoring is based on:
 
-Correctness
-Code architecture
-Maintainability
-Testability
-Extendibility
-Pythonicness of code
-Tests are not required, but plus points for tests. This is a moment to show your skills. But remember simple is better then complex. Try to solve the assignment with the standard library of Python.
+1. Correctness
+2. Code architecture
+3. Maintainability
+4. Testability
+5. Extendibility
+6. Pythonicness of code
+7. Tests are not required, but plus points for tests. This is a moment to show your skills. But remember simple is better then complex. Try to solve the assignment with the standard library of Python.
 
 Note: The assignment example files are meant to be easy. The focus should be on the scoring points.
